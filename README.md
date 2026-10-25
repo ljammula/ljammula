@@ -17,6 +17,7 @@ coding-agent systems that help write them.
 |---|---|
 | [**buildgate**](https://github.com/ljammula/buildgate) | Unattended agent factory: takes a ticket and a spec, drives a coding agent through a sandboxed build-and-verify loop, and hands a human a reviewable PR. Merge stays human by design. Go + Temporal, React console, MCP endpoint. Live-proven on Go, Python, Java, Ruby and React Native repos. [Console tour](https://ljammula.github.io/buildgate/) |
 | [**agent-configs**](https://github.com/ljammula/agent-configs) | Agent instructions and skills for Claude Code, Codex and Copilot, plus a harness evaluation report: [results](https://ljammula.github.io/agent-configs/) |
+| [**todo-kafka-service**](https://github.com/ljammula/todo-kafka-service) | Go API whose writes flow through Kafka into Postgres, with Redis for caching and idempotency keys; idempotent consumers and redelivery on failure |
 | [**todo-service**](https://github.com/ljammula/todo-service) | Go service exposing the same task API over REST and as MCP tools for agents |
 | [**DayTrix**](https://personal-assistant-kkkbm3cwkq-uc.a.run.app) | Flutter (web, iOS, Android) + Go API, live on Cloud Run |
 
