@@ -1,6 +1,6 @@
 ### Narsimha Jammula
 
-Hands-on architect and engineering leader. I build production systems and the
+Hands-on engineering leader: architecture and agentic AI. I build production systems and the
 coding-agent systems that help write them.
 
 - **Now:** Senior Software Engineering Manager at Shipt. I lead 8–11 engineers on
