@@ -4,8 +4,8 @@ Hands-on engineering leader: architecture and agentic AI. I build production sys
 coding-agent systems that help write them.
 
 - **Now:** Senior Software Engineering Manager at Shipt. I lead 8–11 engineers on
-  Tier-0 asynchronous microservices (Go, Python, Postgres, Redis, Kafka) and stay
-  hands-on in architecture and code.
+  10–12 microservices and agents, Tier-0 services among them (Go, Python,
+  Postgres, Redis, Kafka), and stay hands-on in architecture and code.
 - **Before:** Lead Data Scientist shipping ML models into production behind REST
   services; client-facing consultant with Goldman Sachs engineering; backend Java.
 - **2026:** agentic AI systems: coding-agent harnesses, sandboxed execution,
